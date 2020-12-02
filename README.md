@@ -1,1 +1,2 @@
-# windows_telemetry_blocker
+# Telemetry Blocker
+Block windows telemetry using simple firewall rules.
