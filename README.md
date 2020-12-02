@@ -1,0 +1,1 @@
+# windows_telemetry_blocker
